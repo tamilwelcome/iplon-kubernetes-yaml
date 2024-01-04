@@ -1,0 +1,22 @@
+{
+	"plantname": "amplus",
+	"plantid": "79",
+	"plantdb": "amplus",
+	"blocks": [{
+			"blockname": "amplus_5MW",
+			"blocknums": ["01"],
+			"hosts": [{
+				"hostname": "iGatePV",
+				"hostid": "iGatePV"
+			}]
+		},
+		{
+			"blockname": "amplus1_5MW",
+			"blocknums": ["02"],
+			"hosts": [{
+				"hostname": "iGatePV",
+				"hostid": "iGatePV"
+			}]
+		}
+	]
+}

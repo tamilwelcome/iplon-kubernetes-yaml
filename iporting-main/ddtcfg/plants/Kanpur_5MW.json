@@ -1,0 +1,14 @@
+{
+	"plantname": "Kanpur5MW",
+	"plantid": "71",
+	"plantdb": "avaada",
+	"blocks": [{
+			"blockname": "B01",
+			"blocknums": ["01"],
+			"hosts": [{
+				"hostname": "iGatePV",
+				"hostid": "7180"
+			}]
+		}
+	]
+}

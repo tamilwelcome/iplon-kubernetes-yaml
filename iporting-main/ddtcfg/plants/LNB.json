@@ -1,0 +1,30 @@
+{
+	"plantname": "LNB",
+	"plantid": "78",
+	"plantdb": "lnb",
+	"blocks": [{
+			"blockname": "LNB1_20MW",
+			"blocknums": ["01", "02"],
+			"hosts": [{
+				"hostname": "iGatePV",
+				"hostid": "iGatePV"
+			}]
+		},
+		{
+			"blockname": "LNB2_20MW",
+			"blocknums": ["03", "04"],
+			"hosts": [{
+				"hostname": "iGatePV",
+				"hostid": "iGatePV"
+			}]
+		},
+		{
+			"blockname": "LNB_1MW",
+			"blocknums": ["11"],
+			"hosts": [{
+				"hostname": "iGatePV",
+				"hostid": "iGatePV"
+			}]
+		}
+	]
+}

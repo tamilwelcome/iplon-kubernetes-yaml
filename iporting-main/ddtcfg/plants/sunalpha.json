@@ -1,0 +1,30 @@
+{
+	"plantname": "sunalpha",
+	"plantid": "54",
+	"plantdb": "sunalpha",
+	"blocks": [{
+			"blockname": "kovilpatti2_1.2MW",
+			"blocknums": ["26"],
+			"hosts": [{
+				"hostname": "iGatePV",
+				"hostid": "iGatePV"
+			}]
+		},
+		{
+			"blockname": "kovilpatti1_1.2MW",
+			"blocknums": ["25"],
+			"hosts": [{
+				"hostname": "iGatePV",
+				"hostid": "iGatePV"
+			}]
+		},
+		{
+			"blockname": "kovilpatti3_1.2MW",
+			"blocknums": ["27"],
+			"hosts": [{
+				"hostname": "iGatePV",
+				"hostid": "iGatePV"
+			}]
+		}
+	]
+}

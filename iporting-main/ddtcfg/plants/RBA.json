@@ -1,0 +1,38 @@
+{
+	"plantname": "RBA",
+	"plantid": "50",
+	"plantdb": "rba",
+	"blocks": [{
+			"blockname": "RBA_5MW",
+			"blocknums": ["40"],
+			"hosts": [{
+				"hostname": "iGatePV",
+				"hostid": "iGatePV"                 
+			}]
+		},
+        {
+			"blockname": "RBA_4MW",
+			"blocknums": ["42"],
+			"hosts": [{
+				"hostname": "iGatePV",
+				"hostid": "iGatePV"
+			}]
+		},
+        {
+			"blockname": "RBA_12MW_1",
+			"blocknums": ["43"],
+			"hosts": [{
+				"hostname": "iGatePV",
+				"hostid": "iGatePV"
+			}]
+		},
+        {
+			"blockname": "RBA_12MW_2",
+			"blocknums": ["44"],
+			"hosts": [{
+				"hostname": "iGatePV",
+				"hostid": "iGatePV"
+			}]
+		}
+	]
+}

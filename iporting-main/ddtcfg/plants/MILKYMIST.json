@@ -1,0 +1,14 @@
+{
+	"plantname": "milkymist",
+	"plantid": "53",
+	"plantdb": "tata",
+	"blocks": [{
+			"blockname": "milkymist_2.5MW",
+			"blocknums": ["13"],
+			"hosts": [{
+				"hostname": "iGatePV",
+				"hostid": "iGatePV"
+			}]
+		}
+	]
+}

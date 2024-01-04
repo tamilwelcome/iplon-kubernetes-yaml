@@ -1,0 +1,14 @@
+{
+	"plantname": "Bathinda",
+	"plantid": "67",
+	"plantdb": "smartroof",
+	"blocks": [{
+			"blockname": "Bathinda_1MW",
+			"blocknums": ["01"],
+			"hosts": [{
+				"hostname": "iGatePV",
+				"hostid": "iGatePV"
+			}]
+		}
+	]
+}
